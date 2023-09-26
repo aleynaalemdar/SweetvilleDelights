@@ -1,8 +1,7 @@
 # SWEETVILLE DELIGHTS
 ![Sweetville Delights](https://snipboard.io/ya3lto.jpg)
 
-# INTRODUCTION: 
-Bake and Decorate Your Dream Cakes!🍰
+# INTRODUCTION: Bake and Decorate Your Dream Cakes!🍰🎊
 
 Are you ready to embark on a delicious journey into the world of baking and cake decoration?
 Introducing Sweetville Delights, the ultimate cake-making simulator that lets you create mouthwatering cakes from scratch! 
@@ -18,13 +17,14 @@ Unleash your inner pastry chef and transform your virtual kitchen into a sweet p
 
 # How to Play:
 
-Look at Your Sample Cake: You'll have a wide variety of flavors and styles to pick from.
+Look at Your Sample Cake: You'll have a wide variety of flavors and styles to pick from.🍫🎂
+
 Decorate Your Cake: Now, it's time to let your creativity shine. Use the in-game tools to decorate your cake with frosting, toppings and more. 
 
 # Why Sweetville Delights?
 Sweetville Delights is not just a game; it's a delightful journey into the art of cake-making.
 Indulge your senses and create the cakes of your dreams in Sweetville Delights. It's time to let your imagination run wild.
-Get ready to  satisfy your sweet tooth in Sweetville Delights!
+Get ready to  satisfy your sweet tooth in Sweetville Delights! 🥳
 
 ## PLAY
 You can play the game from here =>
